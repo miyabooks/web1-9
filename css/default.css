@@ -8,7 +8,9 @@
 
 /* main */
 body{
-    background-color: lightgrey;
+    background-image: url(..d9111b62285197fc8a23712399d9402c (1).jpg), url(..imai_jk.jpg);
+    background-repeat: no-repeat, no-repeat;
+    background-color: lightgray;
     margin: 5px;
 }
 
