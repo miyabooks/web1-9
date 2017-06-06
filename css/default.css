@@ -24,7 +24,7 @@ body{
              text-shadow: 0px 0px 5px gray;}
 .bebel      {color: silver;
              text-shadow: -1px -1px 0px white,
-                           1px  1px 0px darkcray;}
+                           1px  1px 0px darkgray;}
 .embos      {color: silver;
              text-shadow: -1px -1px 0px darkgray,
                            1px  1px 0px white;}
@@ -62,9 +62,9 @@ body{
     box-shadow: 1px 1px 3px dimgray;
     color: white;
     font-weight: bold;
-    text-shadow: 1px 1px 0 rgba(0,0,0,0,4);
+    text-shadow: 1px 1px 0 rgba(0,0,0,0.4);
     background-color: blue;
-    background: linear-gradient(0deg
+    background: linear-gradient(0deg,
         #00679A,
         #0081B4 50%,
         #63B3D2 50%,
